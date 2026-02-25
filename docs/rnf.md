@@ -1,11 +1,10 @@
+2. Requisitos Não Funcionais (RNF)
 
-## 1. Requisitos Funcionais (RF)
+### RNF01 — Tempo de resposta
+O sistema deve carregar telas principais em até **2 segundos**.
 
-### RF01 — Login do usuário
-O sistema deve permitir que o usuário realize login com e-mail e senha.
+### RNF02 — Segurança
+As senhas devem ser armazenadas usando hash seguro (ex.: bcrypt).
 
-### RF02 — Recuperar senha
-O sistema deve permitir que o usuário solicite recuperação de senha por e-mail.
-
-### RF03 — Atualização de perfil
-O usuário pode alterar nome, foto e dados pessoais.
+### RNF03 — Compatibilidade
+O sistema deve funcionar nos navegadores Chrome, Edge e Firefox.
