@@ -12,3 +12,6 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 ### RF03 — Atualização de perfil
 O usuário pode alterar nome, foto e dados pessoais.
 
+### RF04 - Cadastro de novos usuáarios
+O sistema deve permitir que novos usuários sejam criados.
+
